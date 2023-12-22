@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: estudiantes
 permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [licenciatura, maestria, doctorado]
 horizontal: false
 ---
 
